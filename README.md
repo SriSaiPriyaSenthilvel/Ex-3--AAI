@@ -115,6 +115,7 @@ print(query_result)
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/4ef37151-92b7-4f27-a9f8-21f19f1137ca)
+![image](https://github.com/user-attachments/assets/809dcf07-0ba1-4b7f-a36f-23b902dc9e4d)
 
 
 ## Result:
